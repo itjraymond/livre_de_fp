@@ -40,3 +40,10 @@ In which case the Monad is only a contextual computation that hides a certain va
 
 How about `lift` functions?  You need to understand those as well.
 
+
+#### Idea
+
+Have a chapter on `Category Theory` basics.
+
+
+
