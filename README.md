@@ -2,7 +2,7 @@
 
 # Un Livre de Functional Programming
 
-Waring: This may not result in anything as my motivation is spread to so many things.
+Warning: This may not result in anything as my motivation is spread to so many things (and is also thin).
 
 Note: main branch will not expose the chapters ;-)
 

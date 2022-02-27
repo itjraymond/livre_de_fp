@@ -2,7 +2,7 @@
 
 ### 2021-02-28
 
-Today I was reading additional info on Monads.  Specifcally the Reader Monad, Writer Monad and the
+Today I was reading additional info on Monads.  Specifically the Reader Monad, Writer Monad and the
 State Monad.  It turns out that this can also be thought as:
 
 - Consumer Monad
@@ -45,5 +45,8 @@ How about `lift` functions?  You need to understand those as well.
 
 Have a chapter on `Category Theory` basics.
 
+#### Idea
 
+Show how we can use ADT (algebraic data type) to as a way to capture domain design into 
+the type instead of code.
 
